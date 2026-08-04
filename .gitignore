@@ -1,0 +1,54 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+build/
+dist/
+bin/
+debug/
+release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Dependency files
+*.d
+*.dep
+
+# OS files
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+
+BubbleSort
+InsertationSort
+QuickSort
+SelectionSort
